@@ -55,9 +55,9 @@
           <large-logo-component max-width="200" light/>
         </v-col>
         <v-col sm="8" cols="12">
-          <p>Colegio Bautista MISION DE FE</p>
+          <p>Finanzas Brochelle S.A. de C.V.</p>
           <p>Universidad de El Salvador</p>
-          <p>© 2025 - Todos los derechos reservados</p>
+          <p>© 2026 - Todos los derechos reservados</p>
         </v-col>
         <v-col sm="2" cols="12" class="d-none d-sm-flex justify-end">
           <logo-component max-width="200" max-height="75" light/>
