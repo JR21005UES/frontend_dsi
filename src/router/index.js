@@ -49,7 +49,7 @@ router.beforeEach(async (to, from, next) => {
   // else if (
   //   requiresAuth &&
   //   localStorage.getItem('token') &&
-  //   !(await canNext(to))
+  //   !(await LocanNext(to))
   // )
     // next('/forbidden')
   else next()

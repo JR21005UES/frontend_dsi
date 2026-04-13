@@ -1,0 +1,14 @@
+services:
+
+  # Frontend Vue 3
+  frontend:
+    build: .
+    container_name: ues_frontend
+    restart: unless-stopped
+    volumes:
+      - .:/app
+      - /app/node_modules
+    ports:
+      - "3000:3000"
+    environment:
+      VITE_VUE_APP_API_URL: ${VITE_VUE_APP_API_URL:-http://localhost:8000/}
