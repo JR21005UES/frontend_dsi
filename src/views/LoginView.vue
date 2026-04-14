@@ -36,7 +36,7 @@
                   block
                   @click="submit"
                 >
-                  Iniciar sesión
+                  Iniciar Sesión
                 </v-btn>
               </v-form>
             </v-card>
