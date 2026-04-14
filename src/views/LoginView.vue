@@ -36,7 +36,7 @@
                   block
                   @click="submit"
                 >
-                  Iniciar sesión
+                  Iniciar Sesión
                 </v-btn>
               </v-form>
             </v-card>
@@ -55,7 +55,7 @@
           <large-logo-component max-width="200" light/>
         </v-col>
         <v-col sm="8" cols="12">
-          <p>Finanzas Brochelle S.A. de C.V.</p>
+          <p>Finanzas Brocelle S.A. de C.V.</p>
           <p>Universidad de El Salvador</p>
           <p>© 2026 - Todos los derechos reservados</p>
         </v-col>
